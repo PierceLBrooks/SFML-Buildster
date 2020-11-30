@@ -59,11 +59,11 @@
         </generator>
         <definitions></definitions>
         <links>
-          <link>sfml-graphics-2</link>
-          <link>sfml-window-2</link>
-          <link>sfml-audio-2</link>
-          <link>sfml-network-2</link>
-          <link>sfml-system-2</link>
+          <link>sfml-graphics-*</link>
+          <link>sfml-window-*</link>
+          <link>sfml-audio-*</link>
+          <link>sfml-network-*</link>
+          <link>sfml-system-*</link>
           <if_check id="BUILDSTER_OS" check="Windows">
             <link>setupapi</link>
             <link>iphlpapi</link>
