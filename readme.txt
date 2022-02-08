@@ -1,9 +1,9 @@
 
 Requirements:
 
- * Windows ( preferably, at least - for some as of yet unknown reason... )
- * CodeBlocks
- * MinGW
+ * CodeBlocks (Windows/Linux)
+ * XCode (MacOS)
+ * MinGW (Windows)
  * Git
  * CMake
  * Python
