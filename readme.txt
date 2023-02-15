@@ -8,3 +8,10 @@ Requirements:
  * CMake
  * Python
 
+Instructions:
+
+ * Build.bat (Windows)
+ * ./Build.sh (Linux/MacOS)
+ * cd ./Distribution
+ * cd ./debug
+ * ./example
